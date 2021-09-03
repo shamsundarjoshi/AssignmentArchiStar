@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <build>
-  <finalName>docker.Jenkins-Assignment</finalName>
+  <finalName>docker_Jenkins_Assignment</finalName>
    </build>
 </project>
