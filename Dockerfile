@@ -1,5 +1,5 @@
 # select parent images_1
-
+#Updating docker image content_1.0
 FROM maven:3.6.3-jdk-8
 
  
